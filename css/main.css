@@ -25,3 +25,22 @@ img {
   display: block;
   width: 100%;
 }
+
+a {
+  color: #3783a3;
+  font-size: 1rem;
+  margin: 1.5rem;
+}
+
+nav ul{
+  display: flex;
+  list-style-type: none;
+}
+
+header {
+  display: flex;
+}
+
+h1 {
+  display: flex;
+}
