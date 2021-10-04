@@ -24,6 +24,7 @@ body {
 img {
   display: block;
   width: 100%;
+  padding: 1rem;
 }
 
 a {
@@ -43,4 +44,13 @@ h1 {
 nav ul{
   display: flex;
   list-style-type: none;
+}
+
+article a{
+  text-decoration: none;
+  color: #3783a3;
+  border: .2rem solid;
+  border-radius: .3rem;
+  margin: 1.5rem;
+  padding: .5em 1em .6em;
 }
