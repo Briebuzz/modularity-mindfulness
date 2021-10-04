@@ -32,15 +32,15 @@ a {
   margin: 1.5rem;
 }
 
-nav ul{
-  display: flex;
-  list-style-type: none;
-}
-
 header {
   display: flex;
 }
 
 h1 {
   display: flex;
+}
+
+nav ul{
+  display: flex;
+  list-style-type: none;
 }
